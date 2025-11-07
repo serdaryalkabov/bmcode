@@ -1,0 +1,13 @@
+{
+  "categories": [
+    {
+      "id": "cpp",
+      "name": "C++",
+      "subcategories": [
+        { "id": "cpp-b", "titleEn": "Syntax & Basics", "titleRu": "Синтаксис и основы", "titleTkm": "Sintaksis we esaslar" },
+        { "id": "cpp-oop", "titleEn": "Object-Oriented Programming", "titleRu": "Объектно-ориентированное программирование", "titleTkm": "Obýekt ugurly programmirleme" },
+        { "id": "cpp-memory", "titleEn": "Memory Management & Pointers", "titleRu": "Управление памятью и указатели", "titleTkm": "Ýat dolandyryşy we görkezijiler" },
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": "cpp",
+      "name": "C++",
+      "subcategories": [
+        { "id": "cpp-b", "titleEn": "Syntax & Basics", "titleRu": "Синтаксис и основы", "titleTkm": "Sintaksis we esaslar" },
+        { "id": "cpp-oop", "titleEn": "Object-Oriented Programming", "titleRu": "Объектно-ориентированное программирование", "titleTkm": "Obýekt ugurly programmirleme" },
+        { "id": "cpp-memory", "titleEn": "Memory Management & Pointers", "titleRu": "Управление памятью и указатели", "titleTkm": "Ýat dolandyryşy we görkezijiler" },
+        { "id": "cpp-stl", "titleEn": "Standard Template Library (STL)", "titleRu": "Стандартная библиотека шаблонов (STL)", "titleTkm": "Standart şablon kitaphanasy (STL)" },
+        { "id": "cpp-templates", "titleEn": "Templates & Generic Programming", "titleRu": "Шаблоны и обобщённое программирование", "titleTkm": "Şablonlar we umumy programmirleme" },
+        { "id": "cpp-files", "titleEn": "File Handling & I/O", "titleRu": "Работа с файлами и ввод/вывод", "titleTkm": "Faýllar bilen işlemek we giriş/çykyş" },
+        { "id": "cpp-best", "titleEn": "Best Practices & Modern C++", "titleRu": "Лучшие практики и современный C++", "titleTkm": "Iň gowy tejribeler we döwrebap C++" }
+      ]
+    },
+    {
+      "id": "py",
+      "name": "Python",
+      "subcategories": [
+        { "id": "py-basics", "titleEn": "Syntax & Core Concepts", "titleRu": "Синтаксис и основные концепции", "titleTkm": "Sintaksis we esasy düşünjeler" },
+        { "id": "py-functions", "titleEn": "Functions & Modules", "titleRu": "Функции и модули", "titleTkm": "Funksiýalar we modullar" },
+        { "id": "py-oop", "titleEn": "Classes & OOP", "titleRu": "Классы и ООП", "titleTkm": "Klasslar we OOP" },
+        { "id": "py-data", "titleEn": "Data Structures (List, Dict, Set...)", "titleRu": "Структуры данных (List, Dict, Set...)", "titleTkm": "Maglumat gurluşlary (List, Dict, Set...)" },
+        { "id": "py-exceptions", "titleEn": "Error & Exception Handling", "titleRu": "Обработка ошибок и исключений", "titleTkm": "Ýalňyşlyklar bilen işlemek" },
+        { "id": "py-libraries", "titleEn": "Popular Libraries (NumPy, Pandas...)", "titleRu": "Популярные библиотеки (NumPy, Pandas...)", "titleTkm": "Meşhur kitaphanalar (NumPy, Pandas...)" },
+        { "id": "py-best", "titleEn": "Best Practices & Coding Style", "titleRu": "Лучшие практики и стиль кода", "titleTkm": "Iň gowy tejribeler we kod stili" }
+      ]
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "subcategories": [
+        { "id": "java-basics", "titleEn": "Syntax & Basics", "titleRu": "Синтаксис и основы", "titleTkm": "Sintaksis we esaslar" },
+        { "id": "java-oop", "titleEn": "Object-Oriented Programming", "titleRu": "Объектно-ориентированное программирование", "titleTkm": "Obýekt ugurly programmirleme" },
+        { "id": "java-collections", "titleEn": "Collections Framework", "titleRu": "Фреймворк коллекций", "titleTkm": "Kolleksiýalar ulgamyndaky gurluş" },
+        { "id": "java-exceptions", "titleEn": "Error & Exception Handling", "titleRu": "Обработка ошибок и исключений", "titleTkm": "Ýalňyşlyklar bilen işlemek" },
+        { "id": "java-streams", "titleEn": "Streams, Lambdas & Functional Java", "titleRu": "Потоки, Lambda и функциональное программирование", "titleTkm": "Aklary, Lambda we funksional programmirleme" },
+        { "id": "java-files", "titleEn": "File I/O & Serialization", "titleRu": "Работа с файлами и сериализация", "titleTkm": "Faýllar bilen işlemek we serializasiýa" },
+        { "id": "java-spring", "titleEn": "Spring Framework & Basics", "titleRu": "Spring Framework и основы", "titleTkm": "Spring Framework we esaslar" }
+      ]
+    },
+    {
+      "id": "htmlcss",
+      "name": "HTML & CSS",
+      "subcategories": [
+        { "id": "html-structure", "titleEn": "HTML Basics & Structure", "titleRu": "Основы HTML и структура", "titleTkm": "HTML esaslary we gurluşy" },
+        { "id": "html-elements", "titleEn": "Common Tags & Attributes", "titleRu": "Основные теги и атрибуты", "titleTkm": "Esasy tegler we atributlar" },
+        { "id": "html-forms", "titleEn": "Forms & Validation", "titleRu": "Формы и валидация", "titleTkm": "Formalar we tassyklama" },
+        { "id": "css-basics", "titleEn": "CSS Syntax & Selectors", "titleRu": "Синтаксис CSS и селекторы", "titleTkm": "CSS sintaksisi we saýlaýjylar" },
+        { "id": "css-layout", "titleEn": "Flexbox & Grid", "titleRu": "Flexbox и Grid", "titleTkm": "Flexbox we Grid" },
+        { "id": "css-responsive", "titleEn": "Responsive Design", "titleRu": "Адаптивный дизайн", "titleTkm": "Responsiw dizaýn" },
+        { "id": "css-animation", "titleEn": "Animations & Transitions", "titleRu": "Анимации и переходы", "titleTkm": "Animasiýalar we geçişler" }
+      ]
+    },
+    {
+      "id": "dsalgo",
+      "name": "Data Structures & Algorithms",
+      "subcategories": [
+        { "id": "ds-basic", "titleEn": "Basic Concepts & Complexity", "titleRu": "Основные понятия и сложность", "titleTkm": "Esasy düşünjeler we çylşyrymlylyk" },
+        { "id": "ds-linear", "titleEn": "Linear Data Structures (Array, List, Stack, Queue)", "titleRu": "Линейные структуры данных (Array, List, Stack, Queue)", "titleTkm": "Göni gurluşlar (Array, List, Stack, Queue)" },
+        { "id": "ds-nonlinear", "titleEn": "Non-linear Data Structures (Tree, Graph)", "titleRu": "Нелинейные структуры данных (Tree, Graph)", "titleTkm": "Göni däl gurluşlar (Tree, Graph)" },
+        { "id": "algo-sorting", "titleEn": "Sorting Algorithms", "titleRu": "Алгоритмы сортировки", "titleTkm": "Tertipleýiş algoritmleri" },
+        { "id": "algo-searching", "titleEn": "Searching Algorithms", "titleRu": "Алгоритмы поиска", "titleTkm": "Gözleg algoritmleri" },
+        { "id": "algo-dp", "titleEn": "Dynamic Programming", "titleRu": "Динамическое программирование", "titleTkm": "Dinamik programmirleme" },
+        { "id": "algo-graph", "titleEn": "Graph Algorithms", "titleRu": "Алгоритмы на графах", "titleTkm": "Grafik algoritmleri" }
+      ]
+    }
+  ]
+}
